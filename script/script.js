@@ -246,31 +246,31 @@
 // var number = 1
 
 
-let number1 = 1
-const number3 = 3.14
+// let number1 = 1
+// const number3 = 3.14
 
-console.log(number1);
+// console.log(number1);
 
-number1 = 111
-
-
-console.log(number1);
-
-console.log(number3);
+// number1 = 111
 
 
-a = 20
-console.log(a);
+// console.log(number1);
 
-a1 = 5
+// console.log(number3);
 
-console.log(a1,);
 
-b = 5
+// a = 20
+// console.log(a);
 
-b++
+// a1 = 5
 
-console.log(b);
+// console.log(a1,);
+
+// b = 5
+
+// b++
+
+// console.log(b);
 
 // function myFunction (c, b) {
 //     c = 3,
@@ -294,134 +294,134 @@ console.log(b);
 
 // myName = 42
 
-let myName
+// let myName
 
-console.log(myName)
+// console.log(myName)
 
-myName = `Aleksandr`
+// myName = `Aleksandr`
 
-console.log(myName)
+// console.log(myName)
 
-console.log(console.log(10));
+// console.log(console.log(10));
 
-const beby = 10
+// const beby = 10
 
-console.log(beby);
-console.log(typeof beby);
+// console.log(beby);
+// console.log(typeof beby);
 
-const myNameBeby = `Aleksandr`
+// const myNameBeby = `Aleksandr`
 
-console.log(myNameBeby);
-console.log(typeof myNameBeby);
+// console.log(myNameBeby);
+// console.log(typeof myNameBeby);
 
-const world = `Hello ` + `World`
-console.log(`world --->`, world);
-console.log(typeof world);
+// const world = `Hello ` + `World`
+// console.log(`world --->`, world);
+// console.log(typeof world);
 
- const testA = {
-    a: 10,
-    b: true
- }
- console.log(testA);
- console.log(typeof testA);
+//  const testA = {
+//     a: 10,
+//     b: true
+//  }
+//  console.log(testA);
+//  console.log(typeof testA);
  
-const copyOfA = testA
+// const copyOfA = testA
 
-copyOfA.a = 20
+// copyOfA.a = 20
 
-console.log(copyOfA.a);
+// console.log(copyOfA.a);
 
 
- const testA1 = {
-    a: 10,
-    b: true
- }
- console.log(testA1);
- console.log(typeof testA1);
+//  const testA1 = {
+//     a: 10,
+//     b: true
+//  }
+//  console.log(testA1);
+//  console.log(typeof testA1);
  
-const copyOfA1 = testA1
+// const copyOfA1 = testA1
 
-copyOfA.c = `abc`
+// copyOfA.c = `abc`
 
-console.log(copyOfA.c);
-console.log(typeof copyOfA.c);
+// console.log(copyOfA.c);
+// console.log(typeof copyOfA.c);
 
-function myAge() {
-  const year2023 = 41
-  const year2024 = 1
-  sum = c = year2023 + year2024
+// function myAge() {
+//   const year2023 = 41
+//   const year2024 = 1
+//   sum = c = year2023 + year2024
   
-  console.log(c);
-  console.log(typeof c);
-}
-myAge()
-console.log(typeof myAge);
+//   console.log(c);
+//   console.log(typeof c);
+// }
+// myAge()
+// console.log(typeof myAge);
 
-const apple = 80 + (`<---kg`)
-console.log(apple);
-console.log(typeof apple);
+// const apple = 80 + (`<---kg`)
+// console.log(apple);
+// console.log(typeof apple);
 
-const apple1 = 80 === (`kg`)
+// const apple1 = 80 === (`kg`)
 
-console.log(apple1);
+// console.log(apple1);
 
-const apple2 = 80 != (`kg`) 
+// const apple2 = 80 != (`kg`) 
 
-console.log(apple2);
-console.log(typeof apple2);
+// console.log(apple2);
+// console.log(typeof apple2);
 
-const apple3 = 80
-const apple4 = (`kg`)
+// const apple3 = 80
+// const apple4 = (`kg`)
 
-sum = apple5 = 80 + (` kg`)
+// sum = apple5 = 80 + (` kg`)
 
-console.log(apple5);
-console.log(`apple3 --->`, apple3);
-console.log(typeof apple3);
-console.log(`apple4 --->`, apple4);
-console.log(typeof apple4);
+// console.log(apple5);
+// console.log(`apple3 --->`, apple3);
+// console.log(typeof apple3);
+// console.log(`apple4 --->`, apple4);
+// console.log(typeof apple4);
 
-const value = 3.14
+// const value = 3.14
 
-console.log(`value --->`, value);
-console.log(typeof value);
-
-
-
-const bebyName = `Aleksandr`
-
-console.log(`bebyName --->`, bebyName);
-console.log(typeof bebyName);
-
-const email = `ivanonic488@gmail.com`
-
-console.log(email);
-console.log(typeof email);
-
-const password = `987654321test`
-console.log(password);
-console.log(typeof password);
+// console.log(`value --->`, value);
+// console.log(typeof value);
 
 
 
+// const bebyName = `Aleksandr`
 
-const test1 = `Lorem ipsum dolor sit amet consectetur adipisicing elit. Enim nemo veniam aspernatur, quisquam eligendi expedita repellendus necessitatibus reiciendis rerum quo id officiis voluptatum, fugiat cupiditate quis ducimus in optio excepturi qui consectetur aliquam est quasi debitis? Quis sint nulla omnis expedita voluptates minima adipisci. Doloribus quaerat eos iure odio architecto sit? Voluptas asperiores officia molestiae, cupiditate possimus animi dolore assumenda minus. Nam voluptate numquam officia incidunt distinctio quasi perferendis animi voluptatem aspernatur suscipit libero veniam assumenda quaerat, atque deserunt repellat odio facilis delectus, asperiores amet tempora ea iusto nobis? Facere, cumque ipsa. Numquam sit expedita quidem modi assumenda quis accusamus.`
-console.log(test1);
-console.log(typeof test1);
+// console.log(`bebyName --->`, bebyName);
+// console.log(typeof bebyName);
+
+// const email = `ivanonic488@gmail.com`
+
+// console.log(email);
+// console.log(typeof email);
+
+// const password = `987654321test`
+// console.log(password);
+// console.log(typeof password);
 
 
 
-const numString = `10`
 
-console.log(numString);
-console.log(typeof numString);
+// const test1 = `Lorem ipsum dolor sit amet consectetur adipisicing elit. Enim nemo veniam aspernatur, quisquam eligendi expedita repellendus necessitatibus reiciendis rerum quo id officiis voluptatum, fugiat cupiditate quis ducimus in optio excepturi qui consectetur aliquam est quasi debitis? Quis sint nulla omnis expedita voluptates minima adipisci. Doloribus quaerat eos iure odio architecto sit? Voluptas asperiores officia molestiae, cupiditate possimus animi dolore assumenda minus. Nam voluptate numquam officia incidunt distinctio quasi perferendis animi voluptatem aspernatur suscipit libero veniam assumenda quaerat, atque deserunt repellat odio facilis delectus, asperiores amet tempora ea iusto nobis? Facere, cumque ipsa. Numquam sit expedita quidem modi assumenda quis accusamus.`
+// console.log(test1);
+// console.log(typeof test1);
 
-let isActive = false
-console.log(isActive);
-console.log(typeof isActive);
 
-isActive = true
-console.log(isActive);
+
+// const numString = `10`
+
+// console.log(numString);
+// console.log(typeof numString);
+
+// let isActive = false
+// console.log(isActive);
+// console.log(typeof isActive);
+
+// isActive = true
+// console.log(isActive);
 
 // if(input !== true) {
 //    checkbox = off
@@ -455,14 +455,253 @@ console.log(isActive);
 // console.log(myCity);
 
 
-const myCity = {
-   city: `New York`                     
-}
+// const myCity = {
+//    city: `New York`                     
+// }
 
-myCity.city = `Las Vegas`
+// myCity.city = `Las Vegas`
 
-console.log(myCity);
+// console.log(myCity);
+
+// myCity.casino = 150
+
+// console.log(myCity);
 
 
-myCity.country = `USA`
-console.log(myCity);
+// myCity.country = `USA`
+
+// console.log(myCity);
+
+// delete myCity.casino
+
+// console.log(myCity);
+
+// const myCity = {
+//    city: `New York`                     
+// }
+
+// myCity.city = `Las Vegas`
+
+// console.log(myCity);
+
+// myCity.casino = 150
+
+// console.log(myCity);
+
+// myCity.popular = true
+
+// console.log(myCity);
+
+
+// myCity.country = `USA`
+
+// console.log(myCity);
+
+// const myCity = {
+//    city:`New York`
+// }
+
+// myCity[`popular`] = true
+
+// console.log(myCity);
+
+// const countryPropertyName = `country`
+
+// myCity[countryPropertyName] = `USA`
+
+// console.log(myCity);
+
+// const myCity = {
+//    city: `New York`,
+//    info: {
+//       isPopular: true,
+//       country: `USA`
+//    }
+// }
+// console.log(myCity);
+
+// console.log(myCity.info.isPopular);
+
+// delete myCity.info[`country`]
+
+// const name = `Aleksandr`
+// let postsQty = 41
+
+// const userProfile = {
+   // name: name,
+   // postsQty: postsQty += 1,
+   // hasSignedAgreement: false
+
+//    name,
+//    postsQty,
+//    hasSignedAgreement: false
+
+
+// }
+// console.log(userProfile);
+
+
+// const myCity = {
+//    city: `New York`
+// }
+
+// const myAgeAleksandr = 41
+// let myYear = 1
+
+// sum = myAgeAleksandr + myYear
+
+// console.log(sum);
+
+// const person = {
+//    name:  `Alex`,
+//    age: 41
+// }
+
+// person.age = 42
+// person.isAdult = true
+
+// console.log(person.age);
+// console.log(person.isAdult);
+
+
+
+// const person = {
+//    name:  `Alex`,
+//    age: 41
+// }
+
+// const person2 = person
+
+// person2.age = 42
+// person2.isAdult = true
+
+// console.log(person2.age);
+// console.log(person2.isAdult);
+
+// const person = {
+//    name: ` Alex `,
+//    ageYear: 1
+// }
+
+// const person2 = Object.assign({}, person)
+
+// person2.age = 41
+
+// console.log(person2.age + person.ageYear + person.name,);
+// console.log(person.name, person2.age + person.ageYear);
+
+// const person = {
+//    name: `Alex `,
+//    age: 42
+// }
+
+// const person2 = JSON.parse(JSON.stringify(person))
+// person2.name = ` Aleksandr`
+
+// console.log(person);
+// console.log(person2);
+// console.log(person2.name);
+// console.log(person2.age);
+// console.log(person.name + person.age + person2.name);
+// console.log(typeof person.name, typeof person.age, typeof person2.name);
+
+
+// let number1 = 5
+// let number2 = 3
+
+// let sum1
+
+// sum1 = number1 + number2
+// console.log(sum1);
+// console.log(typeof sum1);
+
+// number1 = 8
+// number2 = 12
+
+
+// sum2 = number1 + number2
+// console.log(sum2);
+// console.log(typeof sum2);
+
+// number3 = number1 === number2
+// console.log(number3);
+
+// function copySum () {
+//    const sum3 = number1 != number2 
+//    console.log(sum3);
+// }
+// copySum()
+
+
+// function myFun(nem, nam) {
+//    let zum 
+//    nem = nem += 1
+//    zum = nem += nam
+//    return zum
+// }
+// myFun(10, 3)
+
+// myFun()
+
+// function myFn(a, b) {
+//    let c 
+//    a = a + 1
+//    c = a + b
+//    return c
+   // alert(myFn)
+   // console.log(myFn);
+// }
+// myFn(10, 3)
+// alert(myFn)
+
+// function myFn() {}
+// myFn()
+
+// function myFn(a, b) {
+//    let c
+//    a = a + 1
+//    c = a + b
+//    return c
+// }
+
+// const personOne = {
+//    name:`Alex`,
+//    age: 42
+// }
+// console.log(personOne);
+
+// function 
+
+// const b = new Date()
+// alert (b)
+
+// let age = 40;
+
+// let voteable = (age < 18) ? `Too youg` : ` Old enough`;
+
+// alert(voteable)
+
+// if (x > y) {
+//    alert(`Hello World`);
+// }
+
+// if(x > y) {
+//    alert("Hello World");
+// }else {
+//    alert("Goodbye");
+// }
+
+// switch
+// (fruits) {
+  
+// case
+//  "Banana":
+//     alert("Hello")
+//     break;
+  
+// case
+//  "Apple":
+//     alert("Welcome")
+//     break;    
+// }
+
